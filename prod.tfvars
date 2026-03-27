@@ -5,6 +5,6 @@ vpc_name = "PROD-vpc"
 subnet_cidr = "10.0.1.0/24"
 subnet_name = "PROD-subnet"
 
-ami_id = "ami-0b0b78dcacbab728f"
+ami_id = "###"
 ec2_name = "PROD-EC2-Instance"
 instance_type = "t2.medium"
