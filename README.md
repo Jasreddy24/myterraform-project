@@ -26,4 +26,4 @@ So to begin the project- The project directory structure should look like this-
 
 
   
-### we should never commit .tfvars, .tfstate and .auto.tfvars to git. I commited for reference and they are dummy.
+### we should never commit .tfvars, .tfstate and .auto.tfvars to git. 
